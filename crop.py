@@ -37,11 +37,11 @@ import matplotlib.patches as patches
 #  x tăng sang phải, y tăng xuống dưới.
 #  Dùng hàm show_calibration_grid() bên dưới để tìm tọa độ đúng.
 #
-SOUP_BOX  = ( 398,  118, 919, 570)   # Ngăn canh    — thường góc trên-trái
-RICE_BOX  = (1077,  91, 1479, 577)   # Ngăn cơm     — LUÔN ở góc TRÊN-PHẢI
-COMP1_BOX = ( 384, 610, 713, 939)   # Món phụ 1    — giữa-trái
-COMP2_BOX = (735, 616, 1119, 940)   # Món phụ 2    — giữa-phải
-COMP3_BOX = (1122, 619, 1483, 935)   # Món phụ 3    — cạnh trái ngăn cơm
+SOUP_BOX  = ( 353,  125, 886, 609)   # Ngăn canh    — thường góc trên-trái
+RICE_BOX  = (1067,  126, 1479, 577)   # Ngăn cơm     — LUÔN ở góc TRÊN-PHẢI
+COMP1_BOX = ( 384, 602, 677, 968)   # Món phụ 1    — giữa-trái
+COMP2_BOX = (702, 626, 100, 970)   # Món phụ 2    — giữa-phải
+COMP3_BOX = (1080, 635, 1428, 955)   # Món phụ 3    — cạnh trái ngăn cơm
 # ══════════════════════════════════════════════════════════════════
 
 
