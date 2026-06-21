@@ -244,7 +244,7 @@ def predict_single(image_bgr: np.ndarray,
         for i in top_indices
     ]
 
-    CONFIDENCE_THRESHOLD = 0.70
+    CONFIDENCE_THRESHOLD = 0.30
 
     best_food, best_conf = top_results[0]
 
